@@ -1,5 +1,5 @@
 const mongoose = require("mongoose");
-mongoose.connect("mongodb+srv://hardikh05:qHBMaSAT5KuXuLrH@cluster0.4nficdg.mongodb.net/foodle")
+mongoose.connect("mongodb+srv://hard*********************************************************")
 const aodoSchema = mongoose.Schema({
     name: String,
     password: String,
